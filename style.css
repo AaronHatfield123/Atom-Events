@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+.atomhomepagelogo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: middle;
+	width: 500px;
+	height: 99%;
+}
+.homepagelogo {
+	background-color: rgba(244,243,243,1.00)
+}
+.btn {
+	border: none;
+	background-color: inherit;
+	padding: 14px 28px;
+	font-size: 60px;
+	cursor: pointer;
+	display: inline-block;
+	align-content: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 99%;
+	
+}
+
+.raversenterhere {
+	font-family: "covered-by-your-grace";
+	color: rgba(225,0,127,1.00);
+}
